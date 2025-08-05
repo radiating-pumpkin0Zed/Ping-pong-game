@@ -4,13 +4,6 @@ A classic **Ping Pong** game made with nothing but **HTML**, **CSS**, and **Java
 
 ---
 
-## 🎮 Demo
-
-🚀 [Play it here](#)  
-(*Add your live link here if hosted on GitHub Pages or another site*)
-
----
-
 ## 🧠 Features
 
 - 🧱 Simple & responsive layout
@@ -53,3 +46,4 @@ A classic **Ping Pong** game made with nothing but **HTML**, **CSS**, and **Java
 ## 🌟 Show some love
 
 If you like this game, give it a ⭐️ on GitHub!
+
